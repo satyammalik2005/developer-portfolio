@@ -8,7 +8,8 @@
 
 | Repository | Description | Tech Stack | Status |
 |---|---|---|---|
-| [CSE103](https://github.com/satyammalik2005/CSE103) | CSE103 lab — Git, APIs, shell scripting, and Markdown documentation | Git, Python, Bash, Markdown | Active |
+| [CSE103](https://github.com/satyammalik2005/CSE103) | CSE103 coursework and lab work | Git, Python, Bash, Markdown | Active |
+| [cse103-lab-LAB3](https://github.com/satyammalik2005/cse103-lab-LAB3) | CSE103 lab — Git, APIs, shell scripting, and project documentation | Git, Python, Bash, Markdown | Active |
 | [developer-portfolio](https://github.com/satyammalik2005/developer-portfolio) | This portfolio index | Markdown | Active |
 
 ---
